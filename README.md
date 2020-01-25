@@ -1,4 +1,4 @@
-# mistygram-backend
+# Hinstagram-backend
 Instagram clone with Express + Prisma + React + React Native
 
 

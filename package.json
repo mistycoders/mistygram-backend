@@ -1,5 +1,5 @@
 {
-  "name": "hinstagram-backend",
+  "name": "pie-instagram-backend",
   "version": "1.0.0",
   "description": "Instagram clone with Express + Prisma + React + React Native",
   "scripts": {

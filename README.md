@@ -1,4 +1,4 @@
-# Hinstagram-backend
+# PIE-instagram-backend
 Instagram clone with Express + Prisma + React + React Native
 
 
